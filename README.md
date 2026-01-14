@@ -16,8 +16,6 @@ I’m especially interested in domains where data meets real-world behavior:
 - **Live events & entertainment analytics** (revenue, customers, operations)
 - **Business intelligence** that leadership teams can trust at a glance
 
-Currently, I’m focused on building **portfolio-grade, production-style analytics systems** that reflect how data work is actually done in practice—not toy examples.
-
 ---
 
 ## What I Work With
