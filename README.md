@@ -1,8 +1,5 @@
 ## Hi there 👋 I'm Medha. 
 
-**Computer Engineering @ UCF**  
-**Analytics Engineering • BI & Product Analytics • Sports & Entertainment Data**
-
 ---
 
 ## About
