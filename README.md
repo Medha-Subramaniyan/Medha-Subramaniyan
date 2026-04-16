@@ -13,24 +13,6 @@ I’m especially interested in domains where data meets real-world behavior:
 - **Live events & entertainment analytics** (revenue, customers, operations)
 - **Business intelligence** that leadership teams can trust at a glance
 
----
-
-## What I Work With
-
-### Data & Analytics
-- SQL (data modeling, views, KPI definitions)
-- Python (pandas, analysis, notebooks)
-- Data cleaning, validation, and metric consistency
-
-### BI & Visualization
-- Dashboard design and KPI storytelling
-- Tableau and custom analytics dashboards
-- Translating metrics into clear narratives
-
-### Development & Tools
-- Git & versioned workflows
-- React (for analytics products and internal tools)
-- Design systems and UI consistency for data products
 
 ---
 
