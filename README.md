@@ -84,4 +84,4 @@ A visual snapshot, grouped by the stack behind it. Click any project with a publ
 ## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/medhasubramaniyan
-- **Portfolio:** https://www.medhasworld.com
+- **Portfolio:** [medha.dev](https://medha.dev/)
