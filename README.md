@@ -14,7 +14,7 @@ I’m especially interested in domains where data meets real-world behavior:
 - **Business intelligence** that leadership teams can trust at a glance
 
 
-## Connect
+## Let's Connect!
 
 - **LinkedIn:** https://www.linkedin.com/in/medhasubramaniyan
 - **Portfolio:** [medha.dev](https://medha.dev/)
