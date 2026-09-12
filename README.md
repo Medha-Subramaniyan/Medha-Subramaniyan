@@ -13,6 +13,12 @@ I’m especially interested in domains where data meets real-world behavior:
 - **Live events & entertainment analytics** (revenue, customers, operations)
 - **Business intelligence** that leadership teams can trust at a glance
 
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/medhasubramaniyan
+- **Portfolio:** [medha.dev](https://medha.dev/)
+
 ---
 
 ## Stats
@@ -80,8 +86,3 @@ A visual snapshot, grouped by the stack behind it. Click any project with a publ
 </table>
 
 ---
-
-## Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/medhasubramaniyan
-- **Portfolio:** [medha.dev](https://medha.dev/)
