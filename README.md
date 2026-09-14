@@ -6,9 +6,9 @@
 
 I build end-to-end analytics products that turn fragmented, messy data into systems people can actually use to make decisions.
 
-My work sits at the intersection of **data engineering, analytics, and product design**—from modeling clean SQL schemas and defining reliable KPIs, to building interactive dashboards and thoughtfully designed data experiences. I care just as much about *how the data is structured* as *how it’s communicated*.
+My work sits at the intersection of **data engineering, analytics, and product design**—from modeling clean SQL schemas and defining reliable KPIs, to building interactive dashboards and thoughtfully designed data experiences. I care just as much about *how the data is structured* as *how it's communicated*.
 
-I’m especially interested in domains where data meets real-world behavior:
+I'm especially interested in domains where data meets real-world behavior:
 - **Sports analytics** (NBA performance, efficiency, and trends)
 - **Live events & entertainment analytics** (revenue, customers, operations)
 - **Business intelligence** that leadership teams can trust at a glance
@@ -49,22 +49,18 @@ A visual snapshot, grouped by the stack behind it. Click any project with a publ
 <sub>Spatial analysis of basketball court access against physical inactivity across 2,315 census tracts. Court density did not predict activity — the finding was the absence of the expected effect.</sub>
 </td>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/Medha-Subramaniyan/Medha-Subramaniyan/main/assets/unfazed.jpg" alt="Unfazed Georgia" />
-<br /><b>Unfazed Georgia</b><br />
-<sub>Audience geography from a 2,499-row SMS export. Overlapping NANP area codes were consolidated into one metro region rather than mapped separately, to avoid implying precision the data did not support.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%">
 <a href="https://github.com/Medha-Subramaniyan/spotify-listening-analysis"><img src="https://raw.githubusercontent.com/Medha-Subramaniyan/Medha-Subramaniyan/main/assets/spotify-powerlaw.jpg" alt="Autopilot — the long tail" /></a>
 <br /><b><a href="https://github.com/Medha-Subramaniyan/spotify-listening-analysis">Autopilot — the long tail</a></b><br />
 <sub>Four years of streaming history. Fifty artists account for half of all listening; 2,975 artists split the last 10%, and 1,396 of them were played exactly once.</sub>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <img src="https://raw.githubusercontent.com/Medha-Subramaniyan/Medha-Subramaniyan/main/assets/market-intel.jpg" alt="Market Intel Brief" />
 <br /><b>Market Intel Brief</b><br />
 <sub>Batch ETL across six heterogeneous sources — bulk TSV, headless browser, RSS, PDF parsing — normalised to one ZIP-level schema with a staleness SLA and per-source lineage.</sub>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
