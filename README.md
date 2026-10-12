@@ -13,10 +13,9 @@ I'm especially interested in domains where data meets real-world behavior:
 - **Live events & entertainment analytics** (revenue, customers, operations)
 - **Business intelligence** that leadership teams can trust at a glance
 
-
 ## Let's Connect!
 
-- **LinkedIn:** https://www.linkedin.com/in/medhasubramaniyan
+- **LinkedIn:** [https://www.linkedin.com/in/medhasubramaniyan](https://www.linkedin.com/in/medhasubramaniyan)
 - **Portfolio:** [medha.dev](https://medha.dev/)
 
 ---
@@ -60,7 +59,11 @@ A visual snapshot, grouped by the stack behind it. Click any project with a publ
 <br /><b>Market Intel Brief</b><br />
 <sub>Batch ETL across six heterogeneous sources — bulk TSV, headless browser, RSS, PDF parsing — normalised to one ZIP-level schema with a staleness SLA and per-source lineage.</sub>
 </td>
-<td width="50%"></td>
+<td width="50%">
+<a href="https://github.com/Medha-Subramaniyan/orlando-seller-leverage-analysis"><img src="https://raw.githubusercontent.com/Medha-Subramaniyan/Medha-Subramaniyan/main/assets/orlando_leverage_db.png" alt="Orlando Seller Leverage dashboard" /></a>
+<br /><b><a href="https://github.com/Medha-Subramaniyan/orlando-seller-leverage-analysis">Orlando Seller Leverage</a></b><br />
+<sub>Redfin and Realtor.com data combined into a ZIP-level dashboard tracking seller negotiating advantage through supply, market speed, and pricing signals.</sub>
+</td>
 </tr>
 </table>
 
